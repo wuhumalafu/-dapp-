@@ -42,36 +42,37 @@
 针对本项目的关键功能，我选取了几个具有代表性的用例来验证项目的可行性。
 
 - 发起活动流程
+![image-20221103180254642](https://github.com/wuhumalafu/-/blob/main/image-20221103180254642.png)
 
-![image-20221103180254642](C:\Users\yyf\AppData\Roaming\Typora\typora-user-images\image-20221103180254642.png)
+![image-20221103180254642](https://github.com/wuhumalafu/-/blob/main/typora-user-images/image-20221103180409286.png)
 
-![image-20221103180416207](C:\Users\yyf\AppData\Roaming\Typora\typora-user-images\image-20221103180416207.png) 
+![image-20221103180416207](https://github.com/wuhumalafu/-/blob/main/typora-user-images/image-20221103180416207.png) 
 
-![image-20221103190943362](C:\Users\yyf\AppData\Roaming\Typora\typora-user-images\image-20221103190943362.png)
+![image-20221103190943362](https://github.com/wuhumalafu/-/blob/main/typora-user-images/image-20221103190943362.png)
 
-![image-20221103180451301](C:\Users\yyf\AppData\Roaming\Typora\typora-user-images\image-20221103180451301.png)
+![image-20221103180451301](https://github.com/wuhumalafu/-/blob/main/typora-user-images/image-20221103180451301.png)
 
 
 
 - 投票流程
 
-  - 同一用户自身项目第一次投票过程![image-20221103191706503](C:\Users\yyf\AppData\Roaming\Typora\typora-user-images\image-20221103191706503.png)![image-20221103191744232](C:\Users\yyf\AppData\Roaming\Typora\typora-user-images\image-20221103191744232.png)![image-20221103191755266](C:\Users\yyf\AppData\Roaming\Typora\typora-user-images\image-20221103191755266.png)
+  - 同一用户自身项目第一次投票过程![image-20221103191706503](https://github.com/wuhumalafu/-/blob/main/typora-user-images/image-20221103191706503.png)![image-20221103191744232](https://github.com/wuhumalafu/-/blob/main/typora-user-images/image-20221103191744232.png)![image-20221103191755266](https://github.com/wuhumalafu/-/blob/main/typora-user-images/image-20221103191755266.png)
 
   
 
-  - 同一用户第二次或更多次投票过程![image-20221103191903554](C:\Users\yyf\AppData\Roaming\Typora\typora-user-images\image-20221103191903554.png)![image-20221103192001790](C:\Users\yyf\AppData\Roaming\Typora\typora-user-images\image-20221103192001790.png)![image-20221103192025972](C:\Users\yyf\AppData\Roaming\Typora\typora-user-images\image-20221103192025972.png)
+  - 同一用户第二次或更多次投票过程![image-20221103191903554](https://github.com/wuhumalafu/-/blob/main/typora-user-images/image-20221103191903554.png)![image-20221103192001790](https://github.com/wuhumalafu/-/blob/main/typora-user-images/image-20221103192001790.png)![image-20221103192025972](https://github.com/wuhumalafu/-/blob/main/typora-user-images/image-20221103192025972.png)
 
     
 
   - 给他人活动投票
 
-    ![image-20221103192336316](C:\Users\yyf\AppData\Roaming\Typora\typora-user-images\image-20221103192336316.png)![image-20221103192428765](C:\Users\yyf\AppData\Roaming\Typora\typora-user-images\image-20221103192428765.png)![image-20221103192608355](C:\Users\yyf\AppData\Roaming\Typora\typora-user-images\image-20221103192608355.png)![image-20221103192705638](C:\Users\yyf\AppData\Roaming\Typora\typora-user-images\image-20221103192705638.png)
+    ![image-20221103192336316](https://github.com/wuhumalafu/-/blob/main/typora-user-images/image-20221103192336316.png)![image-20221103192428765](https://github.com/wuhumalafu/-/blob/main/typora-user-images/image-20221103192428765.png)![image-20221103192608355](https://github.com/wuhumalafu/-/blob/main/typora-user-images/image-20221103192608355.png)![image-20221103192705638](https://github.com/wuhumalafu/-/blob/main/typora-user-images/image-20221103192705638.png)
 
     
 
 - 活动结束
 
-  活动结束之后如果此活动通过，发起者会获得一笔gas。![image-20221103192922131](C:\Users\yyf\AppData\Roaming\Typora\typora-user-images\image-20221103192922131.png)![image-20221103193034161](C:\Users\yyf\AppData\Roaming\Typora\typora-user-images\image-20221103193034161.png)![image-20221103193114353](C:\Users\yyf\AppData\Roaming\Typora\typora-user-images\image-20221103193114353.png)
+  活动结束之后如果此活动通过，发起者会获得一笔gas。![image-20221103192922131](https://github.com/wuhumalafu/-/blob/main/typora-user-images/image-20221103192922131.png)![image-20221103193034161](https://github.com/wuhumalafu/-/blob/main/typora-user-images/image-20221103193034161.png)![image-20221103193114353](https://github.com/wuhumalafu/-/blob/main/typora-user-images/image-20221103193114353.png)
 
 
 
